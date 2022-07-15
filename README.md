@@ -2,7 +2,7 @@
 - 👀 Eu estou interessado em um emprego
 - 🌱 No momento estou aprendendo construções de API em .NET
 - 💞️ Sem amores
-- 📫 Onde me encontrar: @giovannerolo (todas as redes sociais) e giovannerolo@gmail.com
+- 📫 Onde me encontrar: @giovannerolo (twitter e instagram) e giovannerolo@gmail.com
 
 <!---
 giovannerolo/giovannerolo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
