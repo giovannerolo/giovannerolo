@@ -1,7 +1,7 @@
 - 👋 Oi, sou o @giovannerolo
 - 👀 Eu estou interessado em um emprego
-- 🌱 No momento estou aprendendo construções de API em .NET
-- 💞️ Sem amores
+- 🌱 No momento estou aprendendo front-end em JS
+- 💞️ Amo programar
 - 📫 Onde me encontrar: @giovannerolo (twitter e instagram) e giovannerolo@gmail.com
 
 <!---
